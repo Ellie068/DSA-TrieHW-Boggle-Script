@@ -10,3 +10,8 @@ At line 86
 `File file = File('german_words_1.9m.txt');`   
 into  
 `File file = File('german_words_1.6m.txt');`
+
+## Source of the German Word List
+[The 1.6 Million Words](https://github.com/WithEnglishWeCan/generated-german-words-full-list)
+
+Unfortunately I forgot the 1.9 Million List is from. Sorryyy... 😭
